@@ -1,6 +1,6 @@
 # Senior-Javascript-applications-developer
 
-Make a pull request on our team
+Create a pull request on our team
 
 Developers wanted - Amsterdam - full-time
 
@@ -29,6 +29,6 @@ As a senior JavaScript app developer, you will take the lead on developing our V
 - Proficient in spoken and written English
 
 
-Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as making a pull request :-)
+Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as creating a pull request :-)
 
 Direct applications only; No agencies please.
